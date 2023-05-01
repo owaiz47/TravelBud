@@ -1,0 +1,28 @@
+cloudinary:
+    name: dy0vqign4
+    key: 494947193932954
+    secret: oUGba9G9TmnudUr0shIkUEOiUDY
+    secure: true
+
+mail:
+    sender: owaiz47@travelbud.com
+    username: AKIAY4LIEPQ6KYKLCAMJ
+    password: BAQDNUWBo49DWeWAA0Y5WtdIJd8NRhT0EtNBAmT0b5BR
+    host: email-smtp.ap-south-1.amazonaws.com
+    port: 587
+    name: travelbud
+   
+firebase:
+    link: https://app.travelbud.com/
+    serviceUrl: https://firebasedynamiclinks.googleapis.com/v1/shortLinks?key=AIzaSyCizdcgwfX7vrU8aBEanL2Nrx5PoZnJocA
+    uriPrefix: https://point.travelbud.com
+    apppackage: com.travelbud
+    
+notify:
+    app_id: 7a2b70a5-84e6-4508-9a4e-0c5118d88899
+    channel_for_external_user_ids: push
+    channel: cf59014a-8634-4435-991a-b572c39e4a21
+    url: https://onesignal.com/api/v1/notifications
+    auth: Basic NDg2ZDQ5MTYtYmE0Yi00MWQ5LTkyOWItMzRiNzg1OWUzMTY4
+     
+    
